@@ -12,7 +12,7 @@ Our training and testing dataset are the International Survey on Emotion Anteced
 
 We have achieved an overall accuracy of 69% with a macro F1, Recall, and Precision of 0.69. Moreover, this model indicates a good balance of sensitivity and specificity overall. Also, our results have been pretty close to that best metrics reported for the ISEAR dataset, which is 67%.
 
-![](G:%5CDuke%5CMIDS_F20%5CIDS703%5CFinal%20Project%5CBERT-Multiclass-Emotion-Recognition%5C30_report%5Cimages%5Cresults_table.png)
+![](https://github.com/solaris-2578/BERT-Multiclass-Emotion-Recognition/blob/main/30_report/images/results_table.png)
 
 **Contributors**: Aiman Haider, Maobin Guo, Pranav Manjunath, Xinyi Pan
 
